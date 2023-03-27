@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.container {
+    width: 1470px;
+    height: 870px;
+    background-color:rgb(48, 167, 32);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.sprite {
+    width: 30px;
+    height: 30px;
+    background-color: brown;
+    position: relative;
+}
